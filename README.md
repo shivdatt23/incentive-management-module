@@ -40,37 +40,43 @@ The Incentive Management Module is a Java-based project developed for a banking 
 
 ## Project Images
 1. BasePage
-![base-page](https://github.com/shivdatt23/incentive-management-module/assets/64527116/0c7494ad-1e73-41a1-a6cc-48ae2d643764)
+![base-page](https://github.com/shivdatt23/incentive-management-module/assets/64527116/9b66a3da-7e2a-44f1-92cf-70ea85dd2612)
+
 
 2. Admin LoginPage
-![adminlogin](https://github.com/shivdatt23/incentive-management-module/assets/64527116/d3a446f9-61c1-4259-9a24-7dc2e99ee187)
+![adminlogin](https://github.com/shivdatt23/incentive-management-module/assets/64527116/9db795cf-b485-40e7-a9aa-b4b81dd49864)
 
-3. Employee Incentive Management Page
-![incentivemanager](https://github.com/shivdatt23/incentive-management-module/assets/64527116/61f2472c-7353-4c83-af66-c9288c3871ba)
+3. Admin HomePage
+![adminhome](https://github.com/shivdatt23/incentive-management-module/assets/64527116/55bca059-5160-4372-a7b2-b7f62a2199ae)
 
-4. Holiday Package Management Page
-![holidaymanager](https://github.com/shivdatt23/incentive-management-module/assets/64527116/b2b76bec-b025-4608-8429-7558268836a7)
 
-5.Email Sent Format
-![emailsent](https://github.com/shivdatt23/incentive-management-module/assets/64527116/ad7e0eef-4225-4732-a79a-5eb74e0fe608)
+4. Employee Incentive Management Page
+![incentivemanager](https://github.com/shivdatt23/incentive-management-module/assets/64527116/807f6704-b7c0-4d1b-ab19-c83274a16bab)
 
-6. UpdateUserByAdmin Page
-![updateuserbyadmin](https://github.com/shivdatt23/incentive-management-module/assets/64527116/e22ece31-5dfa-4411-9367-ace543cba328)
 
-7. User LoginPage
-![userlogin](https://github.com/shivdatt23/incentive-management-module/assets/64527116/cd5bd66f-ab64-4ace-b9d1-7e9b0a8e5eb9)
+5. Holiday Package Management Page
+![holidaymanager](https://github.com/shivdatt23/incentive-management-module/assets/64527116/5ad67fcd-ffc9-46d8-81c0-16d479bd56b7)
 
-8. User RegisterPage
-![userregister](https://github.com/shivdatt23/incentive-management-module/assets/64527116/ceeff084-edb6-4e45-bb5c-336f6d7302e9)
 
-9. Admin HomePage
-![adminhome](https://github.com/shivdatt23/incentive-management-module/assets/64527116/19456629-695c-467f-9caa-56225b814692)
+6.Email Sent Format
+![emailsent](https://github.com/shivdatt23/incentive-management-module/assets/64527116/26202881-cd96-4895-b0a3-8f1d96621140)
+
+
+7. UpdateUserByAdmin Page
+![updateuserbyadmin](https://github.com/shivdatt23/incentive-management-module/assets/64527116/c3c59dde-7a23-452f-bb78-c75b638ac673)
+
+
+8. User LoginPage
+![userlogin](https://github.com/shivdatt23/incentive-management-module/assets/64527116/e88227f5-89fc-4e8a-af72-344b94dba6cb)
+
+
+9. User RegisterPage
+![userregister](https://github.com/shivdatt23/incentive-management-module/assets/64527116/06448aea-00a9-4841-969e-2d437890b2e3)
+
+
 
 10. User HomePage
-![userhome](https://github.com/shivdatt23/incentive-management-module/assets/64527116/b913f72a-c930-4ec6-b0ea-85a6636fce3b)
-
-
-
+![userhome](https://github.com/shivdatt23/incentive-management-module/assets/64527116/c7dc1dcc-2773-470a-8a3a-34fd1ceeb09b)
 
 
 
